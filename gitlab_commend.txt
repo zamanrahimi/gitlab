@@ -1,0 +1,5 @@
+1. git config --global user.name "zamanrahimi"
+2. git config --global user.name
+3. git config --global user.email "zaman.rahimi1368@gmail.com"
+4. git config --global user.email
+5. git config --global --list
