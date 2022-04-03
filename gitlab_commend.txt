@@ -3,3 +3,10 @@
 3. git config --global user.email "zaman.rahimi1368@gmail.com"
 4. git config --global user.email
 5. git config --global --list
+
+Then go to your project folder in desktop 
+1. git init 
+2. git status 
+3. git add .
+4. git commit -m "Your message"
+5. git push -u "https://gitlab.com/zamanrahimi/testproject.git" master
